@@ -1,3 +1,3 @@
 # first commit
 
-Hello World!!
+Hello World!! My name is Clare, and I'm excited to be here!
